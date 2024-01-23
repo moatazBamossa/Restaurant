@@ -29,3 +29,5 @@ export default {
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # Restaurant
+the Design is 
+https://www.figma.com/file/Yiy6OYi1VtyfBJotvkI0Kp/Restaurant-Website-UI-Template-(Community)?node-id=1%3A222&mode=dev
