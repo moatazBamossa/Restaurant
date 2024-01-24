@@ -1,8 +1,12 @@
 import './App.css';
-import { Button } from './components/ui/button';
+import Navbar from './lib/Navbar/Navbar';
 
 function App() {
-  return <Button variant="link">Click me</Button>;
+  return (
+    <>
+      <Navbar />
+    </>
+  );
 }
 
 export default App;
