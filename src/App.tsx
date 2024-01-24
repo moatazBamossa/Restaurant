@@ -1,9 +1,10 @@
-import React from 'react';
+import './App.css';
+import Navbar from './lib/Navbar/Navbar';
 
 function App() {
   return (
     <>
-      <p className="text-4xl text-blue-300">sadsd</p>
+      <Navbar />
     </>
   );
 }
