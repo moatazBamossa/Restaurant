@@ -30,7 +30,7 @@ const Navbar = () => {
   const [active, setActive] = useState('home');
 
   return (
-    <div className="flex justify-between items-center px-[154px] py-[47px]">
+    <div className="flex justify-between items-center pr-[154px] py-[47px]">
       <div className="flex gap-[4.7px] justify-center items-center">
         <div className=" flex items-center justify-center text-white rounded-[8px] h-[41px] w-[34px] bg-primary ">
           <svg
