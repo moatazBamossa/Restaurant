@@ -2,7 +2,7 @@ import { Button } from '@/components/ui/button';
 import image from '../../assets/pngegg.png';
 const Header = () => {
   return (
-    <div className="flex justify-center items-center pr-[63.15px]">
+    <div className="flex justify-center items-center pr-[63.15px] pb-32">
       <div className=" flex flex-col gap-[60px] w-[50%]">
         <p className="text-[62px] text-black font-extrabold	">
           Dive into Delights Of Delectable
